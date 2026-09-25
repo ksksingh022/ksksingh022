@@ -4,7 +4,7 @@
 # Toptal Vetted
 <div align="center">
   <a href="https://www.toptal.com/developers/resume/kuldeep-singh7#PzKnDl" target="_blank">
-    <img src="./toptal-badge.svg" width="220" alt="Toptal Vetted Badge" />
+    <img src="toptal-badge.svg" width="220" alt="Toptal Vetted Badge" />
   </a>
 </div>
 
