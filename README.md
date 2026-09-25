@@ -1,11 +1,5 @@
 # 💫 About Me:
 🤖 AI/ML Engineer | GenAI Systems & LLMOps<br>🏛️ MTech CS @ IIIT-Delhi | GATE AIR 1302(Top 1.3%)<br>🔬 Building production RAG pipelines & Agentic Systems<br>💻 500+ LeetCode | Scalable System Design<br>🌐 Portfolio - https://my-portfolio-livid-sigma-26.vercel.app/
-<div align="center">
-  <a href="https://toptal.com" target="_blank">
-    <img src="toptal-badge.png" width="200" alt="Toptal Vetted Badge" />
-  </a>
-</div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep-singh-379262129) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksksingh022@gmail.com) 
