@@ -1,7 +1,7 @@
 # 💫 About Me:
 🤖 AI/ML Engineer | GenAI Systems & LLMOps<br>🏛️ MTech CS @ IIIT-Delhi | GATE AIR 1302(Top 1.3%)<br>🔬 Building production RAG pipelines & Agentic Systems<br>💻 500+ LeetCode | Scalable System Design<br>
 
-[![Toptal Badge](https://shields.io)](https://toptal.com)
+[![Toptal Badge](https://shields.io)](https://www.toptal.com/developers/resume/kuldeep-singh7#PzKnDl)
 
 
 ## 🌐 Socials:
