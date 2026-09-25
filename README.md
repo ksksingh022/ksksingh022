@@ -2,7 +2,7 @@
 🤖 AI/ML Engineer | GenAI Systems & LLMOps<br>🏛️ MTech CS @ IIIT-Delhi | GATE AIR 1302(Top 1.3%)<br>🔬 Building production RAG pipelines & Agentic Systems<br>💻 500+ LeetCode | Scalable System Design<br>
 <div align="center">
   <a href="https://toptal.com" target="_blank">
-    <img src="./toptal-badge.png" width="200" alt="Toptal Vetted Badge" />
+    <img src="toptal-badge.png" width="200" alt="Toptal Vetted Badge" />
   </a>
 </div>
 
